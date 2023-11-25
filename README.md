@@ -6,8 +6,10 @@
 
 使用 GitHub 的 Fork 功能在自己的工作区内获取项目，作好修改后提交 Pull requests，通过后合并到主分支。
 
-在gitbook.com网站上利用github账号登录，fork SurviveSJTU/SurviveSJTUManual 到个人账户，导入repo并在gitbook.com上做修改并commit到自己repo再提起PR，通过review后合并到master branch
-
 # 如何提出意见
 
 使用 GitHub 的 Issues 功能。
+
+# TODO
+
+pandoc 的自动转换功能并不完美，并且 GitBook 需要用文件夹层次关系组织章节。
